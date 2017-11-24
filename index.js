@@ -1,5 +1,3 @@
-
-const forEach = require('async-foreach').forEach;
 const express = require('express');
 const bodyParser = require('body-parser');
 const request = require('request');
