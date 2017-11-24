@@ -19,6 +19,6 @@
     "apiai": "*",
     "forEachAsync": "*",
     "superagent":"*",
-    "google-speech-api"="*"
+    "google-speech-api":"*"
   }
 }
